@@ -125,7 +125,7 @@ body{
       
       .side-buttons div:hover {
           
-          animation: flip 0.1s forwards;
+          animation: flip 0.000000000001s forwards;
       }
       
      
